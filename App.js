@@ -59,7 +59,7 @@ export default function App() {
       receivedListener.remove();
       responseListener.remove();
     };
-  }, [change]);
+  }, []);
 
   return (
     <View style={styles.container}>

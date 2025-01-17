@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "TestNotification",
-    "slug": "TestNotification",
+    "slug": "ncr-appp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -32,6 +32,7 @@
       "eas": {
         "projectId": "04574853-6369-49cb-b973-edaace656651"
       }
-    }
+    },
+    "owner": "mohcine_en"
   }
 }
